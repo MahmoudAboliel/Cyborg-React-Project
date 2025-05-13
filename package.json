@@ -1,7 +1,7 @@
 {
   "name": "cyborg",
   "version": "0.1.0",
-  "homepage": "https://mahmoudaboliel.github.io/Cyborg-React-Project/",
+  "homepage": "https://mahmoudaboliel.github.io/Cyborg-React-Project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

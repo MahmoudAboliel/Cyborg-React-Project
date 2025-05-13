@@ -15,7 +15,8 @@ class App extends Component {
                     <Header />
                     <Container>
                         <Routes>
-                            <Route path="/" element={<Home />} />
+                        <Home />
+                            {/* <Route path="/" element={} /> */}
                             <Route path="/browse" element={<Browse />} />
                             <Route path="/details" element={<Details />} />
                             <Route path="/streams" element={<Streams />} />
